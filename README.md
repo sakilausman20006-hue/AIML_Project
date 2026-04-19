@@ -95,7 +95,7 @@ python src/test.py
 
 ## 👨‍💻 Author
 
-* Your Name
+* Usman
 
 ---
 
